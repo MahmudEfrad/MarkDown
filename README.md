@@ -148,7 +148,7 @@ https://www.youtube.com
 <!-- for Image we can use exclaimatory sign and third bracket inside alter text and first bracket inside imaage directory (![alt text](image)) -->
 <img src="./Mahmud.jpg" width= "400" title= "profile image">
 
-![profile](D:\Learn App Dev\MarkDown\Mahmud.jpg)
+![profile](./Mahmud.jpg)
 <br><br>
 
 
